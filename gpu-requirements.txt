@@ -1,0 +1,6 @@
+# Optional GPU / CUDA stack for Qiskit Aer and accelerated research workflows
+# Install only when a compatible NVIDIA GPU and CUDA runtime are available.
+
+cupy-cuda12x==13.6.0
+qiskit-aer-gpu==0.15.0
+python-dotenv==1.0.0
